@@ -1,0 +1,13 @@
+name = "Happiness (is a) Warm Gun"
+filename = "HWGMod-1.20.1-1.4.16.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SPMW1tzD/versions/UmhMx00t/HWGMod-1.20.1-1.4.16.jar"
+hash-format = "sha1"
+hash = "7fc698351e827c70e7214129c0ef6e2d3f5a5a06"
+
+[update]
+[update.modrinth]
+mod-id = "SPMW1tzD"
+version = "UmhMx00t"

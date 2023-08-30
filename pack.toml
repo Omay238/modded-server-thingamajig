@@ -1,0 +1,13 @@
+name = "modded server thingamajig"
+author = "Omay"
+version = "1.0.0+1.20.1.client"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3a646268269240d7212476dc1f133ffb7cef639e453c73f88717b720b4c74bc8"
+
+[versions]
+minecraft = "1.20.1"
+quilt = "0.20.1"
